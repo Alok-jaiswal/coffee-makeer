@@ -1,0 +1,18 @@
+{
+  "array1": [
+    {
+      "coffee_powder": "1000 grams",
+      "water": "1000 ml",
+      "milk": "1000",
+      "sugar": "1000 grams",
+      "tea": "1000 grams"
+    }
+  ],
+  "array2": {
+    "coffee_powder": "1000 grams",
+    "water": "1000 ml",
+    "milk": "1000 ml",
+    "sugar": "1000 grams",
+    "tea": "1000 grams"
+  }
+}
